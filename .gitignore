@@ -1,0 +1,8 @@
+password.txt
+
+# A .gitignore file allows us to exclude certain files, file types or directories from being tracked.
+# We do this by listing them in the .gitignore file as above. Global .gitignore files can also be created for
+# computer wide use.
+
+# A list of typically ignored files is available here: https://gist.github.com/octocat/9257657 including
+# compressed files, OS generated files, compiled source and logs and databases.
